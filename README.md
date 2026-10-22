@@ -1,1 +1,0 @@
-# snowflake-view-dashboard
